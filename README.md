@@ -1,4 +1,4 @@
-# morse.py
+# Morse.py
 Morse code translator: a Python program that converts text to Morse code and Morse code back to text.
 Features: text to Morse code translation
 Handles letters, numbers, and spaces.
